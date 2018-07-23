@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MIVI Customer App</string>
+    <string name="txt_login_header">User Login</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_enter_your_msn_code">Enter your MSN code</string>
+    <string name="txt_code_required">MSN code required to login.</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="txt_invalid_code">Enter valid MSN code</string>
+    <string name="title_activity_welcomde">WelcomdeActivity</string>
+    <string name="txt_welcome_to_mivi">HI %s\nWELCOME TO MIVI</string>
+
+    <string name="txt_subscription">Subscription Details\n\nYour Data Balace\t: %1s\nExpiry Date\t: %2s</string>
+    <string name="txt_product">Produce Details\n\nName\t: %1s\nPrice\t: %2s\nText Msg\t: %3s\nVoice\t: %4s\nInternational\t: %5s</string>
+</resources>
